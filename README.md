@@ -14,3 +14,12 @@ Practice repository for bootcamp
    *Another important aspect of mammalian molars is the _cristid obqliqua_
 
    * *The cristid obliqua to the medial margin length shows promising dietary inferences*
+
+
+### Thanks for visiting
+<p align="left">
+<a href="url"><img src="https://github.com/aubricot/Elise_Bootcamp_demo/blob/main/quokka-cute.gif" align="center" width="400" ></a></p> 
+
+<p align="left"> 
+<sub><sup> Cute quokka from <a href="https://media1.tenor.com/m/JMpu-f7mbDYAAAAd/quokka-cute.gif">Tenor</a></sup></sub>
+</p>
